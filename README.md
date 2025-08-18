@@ -25,10 +25,10 @@
 ## 代表專案
 | 專案 | 技術 | 成果 |
 |------|------|------|
-| [語音情緒分析平台](https://github.com/LeafYeh1/emotion-platform) | Flask + TensorFlow + PostgreSQL | 即時情緒偵測 + PDF 報告 |
-| [AI 旅遊推薦系統](https://github.com/LeafYeh1/ai-travel) | Gemini API + Mapbox | 自動規劃最佳路線 |
-| [園藝長者 App](https://github.com/LeafYeh1/gardening-app) | Flutter | 無障礙設計、離線使用 |
-| [KTV 歌詞查歌名 Bot](https://github.com/LeafYeh1/ktv-lyrics-bot) | Python + 爬蟲 | 歌詞快速比對 |
+| [語音情緒分析平台](https://github.com/LeafYeh1/Understandable) | Flask + TensorFlow + PostgreSQL | 即時情緒偵測 + PDF 報告 |
+| [AI 旅遊推薦系統](https://github.com/LeafYeh1/AI_Travel) | Gemini API + Mapbox | 自動規劃最佳路線 |
+| [園藝長者 App](https://github.com/LeafYeh1/Final_mobile) | Flutter | 無障礙設計、離線使用 |
+| [KTV 歌詞查歌名 Bot](https://github.com/LeafYeh1/KTV_character) | Python + 爬蟲 | 歌詞快速比對 |
 
 ---
 
