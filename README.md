@@ -10,6 +10,7 @@
 - **AI 旅遊推薦系統**｜Gemini API + Mapbox API，獲 2024 全國 AI 創意實作競賽佳作
 - **園藝長者 Flutter App**｜支援健康知識推播與工具整合
 - **KTV 歌詞查歌名 Telegram Bot**｜Python 爬蟲 + Telegram API
+- **課程評價系統**｜Python 爬蟲 + php + Javascript + MySQL
 
 ---
 
@@ -29,6 +30,7 @@
 | [AI 旅遊推薦系統](https://github.com/LeafYeh1/AI_Travel) | Gemini API + Mapbox | 自動規劃最佳路線 |
 | [園藝長者 App](https://github.com/LeafYeh1/Final_mobile) | Flutter | 無障礙設計、離線使用 |
 | [KTV 歌詞查歌名 Bot](https://github.com/LeafYeh1/KTV_character) | Python + 爬蟲 | 歌詞快速比對 |
+| [課程評價系統](https://github.com/LeafYeh1/Orange) | 前後端+資料庫 | 匿名評價課程 |
 
 ---
 
